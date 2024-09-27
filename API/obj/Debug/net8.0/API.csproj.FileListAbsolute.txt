@@ -139,3 +139,4 @@ C:\Users\Vedad\Desktop\FinShark\API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPa
 C:\Users\Vedad\Desktop\FinShark\API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Vedad\Desktop\FinShark\API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Vedad\Desktop\FinShark\API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Vedad\Desktop\FinShark\api\obj\Debug\net8.0\API.sourcelink.json
