@@ -1,8 +1,8 @@
-### The Finshark API provides a user account feature that allows users to create and manage a personalized stock portfolio. Users can add stocks to their portfolios and attach comments to specific stocks for tracking and analysis.
+# The Finshark API provides a user account feature that allows users to create and manage a personalized stock portfolio. Users can add stocks to their portfolios and attach comments to specific stocks for tracking and analysis.
 ## This README is still a work in progress.
 Endpoints
 
-# List of stocks
+### List of stocks
 GET /api/stock?PageNumber=1&PageSize=2
 
 Return a list of stocks 
@@ -47,11 +47,11 @@ Example:
 ]
 ```
 
-# Get a single stock 
+### Get a single stock 
  GET /api/stock/{id}
 Retrieve detailed information about a book
 
-# Create a new stock 
+### Create a new stock 
 POST /api/stock
 The request body needs to be in JSON format and include the following properties:
 * Symbol
@@ -61,7 +61,7 @@ The request body needs to be in JSON format and include the following properties
 * Industry
 * MarketCap
 
-# Update a stock 
+### Update a stock 
 PUT /api/stock{id}
 Updating existing stock
 
