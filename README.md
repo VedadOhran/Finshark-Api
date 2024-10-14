@@ -20,9 +20,22 @@ The structure of the responses is as follows:
 [
   {
     "id": 1,
-    "symbol": "TSLA",
+    "symbol": "TSLa",
     "companyName": "Tesla",
-    // ... other stock properties
+    "purchase": 1.44,
+    "lastDiv": 3232,
+    "industry": "Cars",
+    "marketCap": 10000,
+    "comments": []
+  },
+  {
+    "id": 2,
+    "symbol": "string",
+    "companyName": "string",
+    "purchase": 1000000000,
+    "lastDiv": 100,
+    "industry": "string",
+    "marketCap": 5000000000,
     "comments": [
       {
         "id": 1,
@@ -31,10 +44,9 @@ The structure of the responses is as follows:
         "createdOn": "2024-10-14T00:05:42.9794495",
         "stockId": 2,
         "createdBy": "Vedad"
-      }
+      }     
     ]
-  },
-  // ... other stocks
+  }
 ]
 ```
 
