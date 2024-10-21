@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vedad\\Desktop\\FinShark\\api\\API.csproj": {}
+    "C:\\Users\\Vedad\\Desktop\\FinShark\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vedad\\Desktop\\FinShark\\api\\API.csproj": {
+    "C:\\Users\\Vedad\\Desktop\\FinShark\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vedad\\Desktop\\FinShark\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Vedad\\Desktop\\FinShark\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Vedad\\Desktop\\FinShark\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Vedad\\Desktop\\FinShark\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Vedad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vedad\\Desktop\\FinShark\\api\\obj\\",
+        "outputPath": "C:\\Users\\Vedad\\Desktop\\FinShark\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vedad\\AppData\\Roaming\\NuGet\\NuGet.Config",
