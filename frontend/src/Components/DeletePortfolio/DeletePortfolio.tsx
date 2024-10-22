@@ -9,11 +9,11 @@ const DeletePortfolio = ({onPortfolioDelete, portfolioValue}: Props) => {
   return (
     <div>
         <form onSubmit={onPortfolioDelete}>
-            <input hidden={true} value={portfolioValue} />
+            <input hidden={true} value={portfolioValue} readOnly={true} />
             <button>X</button>
         </form>
     </div>
   )
 }
 
-export default DeletePortfolio
+export default DeletePortfolio;

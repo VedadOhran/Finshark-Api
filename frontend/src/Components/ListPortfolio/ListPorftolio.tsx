@@ -13,7 +13,7 @@ const ListPorftolio = ({portfolioValues,onPortfolioDelete}: Props) => {
     <ul>
         {portfolioValues && 
         portfolioValues.map((portfolioValue) => {
-            return <CardPortfolio portfolioValue={portfolioValue} onPortfolioDelete = {onPortfolioDelete} />;
+            return <CardPortfolio portfolioValue={portfolioValue} onPortfolioDelete={onPortfolioDelete} />;
         })}
     </ul>
     </>

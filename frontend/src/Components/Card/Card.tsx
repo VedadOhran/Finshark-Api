@@ -12,7 +12,7 @@ interface Props {
 
 const Card: React.FC<Props> = ({id, searchResult, onPortfolioCreate}: Props): JSX.Element => {
   return (
-    <div className='card'>
+    <div className='card' key={id} id={id}>
         <img alt='company-logo' />
         
         <div className='details'>
@@ -31,4 +31,4 @@ const Card: React.FC<Props> = ({id, searchResult, onPortfolioCreate}: Props): JS
   )
 }
 
-export default Card
+export default Card;

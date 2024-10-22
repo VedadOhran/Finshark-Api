@@ -14,4 +14,4 @@ const AddPortfolio = ({onPortfolioCreate, symbol}: Props) => {
   );
 }
 
-export default AddPortfolio
+export default AddPortfolio;
